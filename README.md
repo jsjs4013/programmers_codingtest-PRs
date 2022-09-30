@@ -1,3 +1,1 @@
-<a href = "https://github.com/devicefarmer/stf/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=devicefarmer/stf" />
-</a>
+코딩테스트 준비 레파지토리
